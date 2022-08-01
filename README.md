@@ -4,6 +4,8 @@ I've got a passion for energy and want to see the world move toward energy and f
 
 I'm currently living in Austin, TX.
 
+[Linkedin](https://www.linkedin.com/in/david-wood-b89518145/)
+
 <h2>Some of the things I've worked with</h2>
 
 ### Languages
