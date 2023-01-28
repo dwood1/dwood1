@@ -1,8 +1,4 @@
-<h1>I'm Dave Wood and you found my github page!</h1>
-
-I've got a passion for energy and want to see the world move toward sustainable energy, food abundance, atmospheric homeostasis, and a manageable level of misinformation. If any of those sound good to you, let's work together!
-
-I'm currently living in Austin, TX.
+<h1>Hi! Welcome to my github page</h1>
 
 [Linkedin](https://www.linkedin.com/in/david-wood-b89518145/)
 
