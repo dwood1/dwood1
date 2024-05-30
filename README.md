@@ -2,13 +2,14 @@
 
 [Linkedin](https://www.linkedin.com/in/david-wood-b89518145/)
 
-<h2>Some of the things I've worked with</h2>
+<h2>Some of the tools I've worked with</h2>
 
 ### Languages
 ![C#](https://shields.io/badge/-C%23-05122A?style=flat&logo=csharp)
 ![Python](https://shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![TypeScript](https://shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![Go](https://shields.io/badge/-TypeScript-05122A?style=flat&logo=go)
 
 ### UI
 ![React](https://shields.io/badge/-React-05122A?style=flat&logo=react)
@@ -19,6 +20,10 @@
 ![GraphQL](https://shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)
 ![NodeJS](https://shields.io/badge/-NodeJS-05122A?style=flat&logo=nodedotjs)
 
+### Machine Learning
+![PyTorch](https://shields.io/badge/-%2ENet-05122A?style=flat&logo=pytorch)
+![LangChain](https://shields.io/badge/-%2ENet-05122A?style=flat&logo=langchain)
+
 ### Tools
 ![Kubernetes](https://shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
 ![Docker](https://shields.io/badge/-Docker-05122A?style=flat&logo=docker)
@@ -26,8 +31,11 @@
 ### Data
 ![Postgres](https://shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql)
 ![Neo4j](https://shields.io/badge/-Neo4j-05122A?style=flat&logo=neo4j)
+![DynamoDB](https://shields.io/badge/-Neo4j-05122A?style=flat&logo=dynamodb)
+![OpenSearch](https://shields.io/badge/-Neo4j-05122A?style=flat&logo=opensearch)
+![Redis](https://shields.io/badge/-Neo4j-05122A?style=flat&logo=redis)
 
-### Public Cloud
+### Cloud
 ![AWS](https://shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
 
 <!--
