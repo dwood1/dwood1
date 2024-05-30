@@ -9,7 +9,7 @@
 ![Python](https://shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![TypeScript](https://shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![Go](https://shields.io/badge/-TypeScript-05122A?style=flat&logo=go)
+![Go](https://shields.io/badge/-Go-05122A?style=flat&logo=go)
 
 ### UI
 ![React](https://shields.io/badge/-React-05122A?style=flat&logo=react)
@@ -21,8 +21,8 @@
 ![NodeJS](https://shields.io/badge/-NodeJS-05122A?style=flat&logo=nodedotjs)
 
 ### Machine Learning
-![PyTorch](https://shields.io/badge/-%2ENet-05122A?style=flat&logo=pytorch)
-![LangChain](https://shields.io/badge/-%2ENet-05122A?style=flat&logo=langchain)
+![PyTorch](https://shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)
+LangChain
 
 ### Tools
 ![Kubernetes](https://shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
@@ -31,9 +31,9 @@
 ### Data
 ![Postgres](https://shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql)
 ![Neo4j](https://shields.io/badge/-Neo4j-05122A?style=flat&logo=neo4j)
-![DynamoDB](https://shields.io/badge/-Neo4j-05122A?style=flat&logo=dynamodb)
-![OpenSearch](https://shields.io/badge/-Neo4j-05122A?style=flat&logo=opensearch)
-![Redis](https://shields.io/badge/-Neo4j-05122A?style=flat&logo=redis)
+![DynamoDB](https://shields.io/badge/-DynamoDB-05122A?style=flat&logo=dynamodb)
+![OpenSearch](https://shields.io/badge/-OpenSearch-05122A?style=flat&logo=opensearch)
+![Redis](https://shields.io/badge/-Redis-05122A?style=flat&logo=redis)
 
 ### Cloud
 ![AWS](https://shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
